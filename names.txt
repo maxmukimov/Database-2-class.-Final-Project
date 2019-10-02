@@ -1,0 +1,8 @@
+allanSherwood@yahoo.com,Allan,Sherwood
+barryz@gmail.com,Barry,Zimmer
+christineb@solarone.com,Christine,Brown
+davidGoldstein@hotmail.com,David,Goldstein
+erinv@gmail.com,Erin,Valentino
+frankwilson@sbcglobal.net,Frank Lee,Wilson
+gary_hernandez@yahoo.com,Gary,Hernandez
+heatheresway@mac.com,Heather,Esway

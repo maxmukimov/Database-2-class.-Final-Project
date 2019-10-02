@@ -1,0 +1,23 @@
+<customerdata>
+<customer>
+	<email>barryzimmer@gmail.com</email>
+	<name>
+		<first>Barry</first>
+		<last>Zimmer</last>
+	</name>
+</customer>
+<customer>
+	<email>christineb@ucba.edu</email>
+	<name>
+		<first>Christine</first>
+		<last>Brown</last>
+	</name>
+</customer>
+<customer>
+	<email>erinv@microsoft.com</email>
+	<name>
+		<first>Erin</first>
+		<last>Valentino</last>
+	</name>
+</customer>
+</customerdata>

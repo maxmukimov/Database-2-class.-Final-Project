@@ -1,0 +1,58 @@
+<customerdata>
+<customer>
+	<email>allanSherwood@yahoo.com</email>
+	<name>
+		<first>Allan</first>
+		<last>Sherwood</last>
+	</name>
+</customer>
+<customer>
+	<email>barryz@gmail.com</email>
+	<name>
+		<first>Barry</first>
+		<last>Zimmer</last>
+	</name>
+</customer>
+<customer>
+	<email>christineb@solarone.com</email>
+	<name>
+		<first>Christine</first>
+		<last>Brown</last>
+	</name>
+</customer>
+<customer>
+	<email>davidGoldstein@hotmail.com</email>
+	<name>
+		<first>David</first>
+		<last>Goldstein</last>
+	</name>
+</customer>
+<customer>
+	<email>erinv@gmail.com</email>
+	<name>
+		<first>Erin</first>
+		<last>Valentino</last>
+	</name>
+</customer>
+<customer>
+	<email>frankwilson@sbcglobal.net</email>
+	<name>
+		<first>Frank Lee</first>
+		<last>Wilson</last>
+	</name>
+</customer>
+<customer>
+	<email>gary_hernandez@yahoo.com</email>
+	<name>
+		<first>Gary</first>
+		<last>Hernandez</last>
+	</name>
+</customer>
+<customer>
+	<email>heatheresway@mac.com</email>
+	<name>
+		<first>Heather</first>
+		<last>Esway</last>
+	</name>
+</customer>
+</customerdata>
